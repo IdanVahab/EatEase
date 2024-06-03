@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g06GbEvAhlUz3GJ7ck21AWbRzZSpwnsi96PIJjsCvd0UYKGeMVsoMKNEUxu8McO2uzYzSYQWW/3BJE4X5GX9Lg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Idan Vahab\\source\\repos\\NoderNederr\\NoderNederr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Idan Vahab\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Idan Vahab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Idan Vahab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Idan Vahab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,62 @@
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.CreateEmployee.resources
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.Form1.resources
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.csproj.GenerateResource.cache
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.AssemblyInfoInputs.cache
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.AssemblyInfo.cs
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.exe
+C:\Users\shake\source\repos\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.deps.json
+C:\Users\shake\source\repos\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.runtimeconfig.json
+C:\Users\shake\source\repos\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.runtimeconfig.dev.json
+C:\Users\shake\source\repos\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.dll
+C:\Users\shake\source\repos\NoderNederr\bin\Debug\net5.0-windows\ref\NoderNederr.dll
+C:\Users\shake\source\repos\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.pdb
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.dll
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\ref\NoderNederr.dll
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.pdb
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.genruntimeconfig.cache
+C:\Users\shake\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.EmployeeList.resources
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.exe
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.deps.json
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.runtimeconfig.json
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.runtimeconfig.dev.json
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.dll
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\bin\Debug\net5.0-windows\NoderNederr.pdb
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.csproj.AssemblyReference.cache
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.CreateEmployee.resources
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.EmployeeList.resources
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.Form1.resources
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.NewTask.resources
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.csproj.GenerateResource.cache
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.AssemblyInfoInputs.cache
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.AssemblyInfo.cs
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.csproj.CoreCompileInputs.cache
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.dll
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\refint\NoderNederr.dll
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.pdb
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.genruntimeconfig.cache
+C:\Users\Idan Vahab\Desktop\עבודת הגשה מונחה עצמים\NoderNederr\obj\Debug\net5.0-windows\ref\NoderNederr.dll
+C:\Users\Idan Vahab\source\repos\NoderNederr\bin\Debug\net5.0-windows\NODERNEDERR.exe
+C:\Users\Idan Vahab\source\repos\NoderNederr\bin\Debug\net5.0-windows\NODERNEDERR.deps.json
+C:\Users\Idan Vahab\source\repos\NoderNederr\bin\Debug\net5.0-windows\NODERNEDERR.runtimeconfig.json
+C:\Users\Idan Vahab\source\repos\NoderNederr\bin\Debug\net5.0-windows\NODERNEDERR.runtimeconfig.dev.json
+C:\Users\Idan Vahab\source\repos\NoderNederr\bin\Debug\net5.0-windows\NODERNEDERR.dll
+C:\Users\Idan Vahab\source\repos\NoderNederr\bin\Debug\net5.0-windows\NODERNEDERR.pdb
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.csproj.AssemblyReference.cache
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.CreateEmployee.resources
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.EmployeeList.resources
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.Form1.resources
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NoderNederr.NewTask.resources
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.csproj.GenerateResource.cache
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.AssemblyInfoInputs.cache
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.AssemblyInfo.cs
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.csproj.CoreCompileInputs.cache
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.dll
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\refint\NODERNEDERR.dll
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.pdb
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\NODERNEDERR.genruntimeconfig.cache
+C:\Users\Idan Vahab\source\repos\NoderNederr\obj\Debug\net5.0-windows\ref\NODERNEDERR.dll
