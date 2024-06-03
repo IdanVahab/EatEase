@@ -14,7 +14,6 @@ Main Features
 System Requirements and Implementation
 1. Hierarchical Class System
 The system includes multiple hierarchical classes, including a base class (Base) which is not from C# or any given package. For example:
-
 Base
 Person
 Employee
@@ -23,6 +22,7 @@ Staff
 Task
 InventoryItem
 CleaningTool
+
 2. Management via Polymorphism
 The management of classes is done via polymorphism, allowing flexible use of base and derived classes.
 
