@@ -3,12 +3,14 @@ EatEase Project Summary
 The EatEase project is a task management system for bars and restaurants that allows for employee management, task distribution, inventory tracking, and cleaning tools management in a sophisticated and object-oriented manner (OOP). The system is built with hierarchical classes, management through polymorphism, a collection of objects, event-driven programming, graphical representation, and the ability to save and restore the current state of the system.
 
 Main Features
-Employee Management: The system can add a new employee to its database, define their permissions and roles.
-Team Task Distribution: The system allocates teams to tasks based on their roles and responsibilities.
-Task Definition: Tasks can be defined with start times, end times, due dates, responsible persons, and performers.
-Inventory Tracking: The system tracks the current and desired quantities of inventory, displaying the required amount to maintain full stock.
-Cleaning Tools Management: The system includes a database of cleaning tools and tracks what needs to be cleaned.
-State Saving and Restoration: The system supports saving and restoring the current state of the object system through serialization.
+1. Employee Management: The system can add a new employee to its database, define their permissions and roles.
+2. Team Task Distribution: The system allocates teams to tasks based on their roles and responsibilities.
+3. Task Definition: Tasks can be defined with start times, end times, due dates, responsible persons, and performers.
+4. Inventory Tracking: The system tracks the current and desired quantities of inventory, displaying the required amount to maintain full stock.
+5. Cleaning Tools Management: The system includes a database of cleaning tools and tracks what needs to be cleaned.
+6. State Saving and Restoration: The system supports saving and restoring the current state of the object system through serialization.
+
+
 System Requirements and Implementation
 1. Hierarchical Class System
 The system includes multiple hierarchical classes, including a base class (Base) which is not from C# or any given package. For example:
